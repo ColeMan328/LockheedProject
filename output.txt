@@ -1,0 +1,67 @@
+R = -5912.893 I + 2150.2972 J + 1111.8375 K 
+V = -3.0146 I + -2.9549 J + 9.5633 K 
+
+COE's for the spacecraft are:
+************************************************************** 
+Specific Mechanical Energy (epsilon): -7.7487
+Semi-Major Axis: 25720.3267
+Eccentricity: 0.7827
+Inclination: 67.6621
+Right Ascension of Ascending Node: 155.8515
+Argument of Perigee: 326.5020
+True Anomaly: 44.3419
+Ballistic Missile with a Radius of Perigee: 5590.2813 
+Orbit is Elliptical
+After a Time of Flight of 240.0000 hours 
+Final True Anomaly = 116.6525 
+
+Updated R and V vectors: 
+
+R = -4041.0539 I + -4539.1541 J + 14103.42 K 
+V = 2.478 I + -3.1442 J + 4.5152 K 
+
+Ground Stations Currently in Use: 
+************************************************************** 
+Tracking site: Colorado 
+Latitude for tracking station: 38.8199 degrees 
+Longitude for tracking station: -104.7004 degrees east 
+Altitude above sea level: 1.8750 km 
+
+Tracking site: Diego Garcia 
+Latitude for tracking station: -7.3192 degrees 
+Longitude for tracking station: 72.4227 degrees east 
+Altitude above sea level: 0.0030 km 
+
+Tracking site: Guam 
+Latitude for tracking station: 13.3086 degrees 
+Longitude for tracking station: -144.7344 degrees east 
+Altitude above sea level: 0.0820 km 
+
+Tracking site: Hawaii 
+Latitude for tracking station: 21.5577 degrees 
+Longitude for tracking station: -158.2487 degrees east 
+Altitude above sea level: 0.1320 km 
+
+Tracking site: New Hampshire 
+Latitude for tracking station: 42.9804 degrees 
+Longitude for tracking station: -71.6828 degrees east 
+Altitude above sea level: 0.3350 km 
+
+Tracking site: Telemetry & Command Station 
+Latitude for tracking station: 51.1319 degrees 
+Longitude for tracking station: -0.8963 degrees east 
+Altitude above sea level: 0.1470 km 
+
+Satellite is within range
+Tracking site: Thule 
+Latitude for tracking station: 76.5319 degrees 
+Longitude for tracking station: -68.7032 degrees east 
+Altitude above sea level: 0.0760 km 
+
+Satellite is within range
+Tracking site: Vandenberg 
+Latitude for tracking station: 34.6348 degrees 
+Longitude for tracking station: -120.6122 degrees east 
+Altitude above sea level: 0.1530 km 
+
+************************************************************** 
