@@ -1,0 +1,44 @@
+
+Site Name: No site name given
+************************************************************** 
+Inital Range tracking site location is at: 
+Latitude = 0.0000 degrees 
+Longitude = 0.0000 degrees east 
+Altitude above sea level = 0.0000 km 
+Greenwich Sidereal Time = 0.0000 degrees 
+Local Sidereal Time = 0.0000 degrees 
+
+Satellite is located at: 
+Range = 0.0000 km 
+Azimuth = 0.0000 degrees 
+Elevation = 0.0000 degrees 
+
+Satellite is moving at: 
+Range rate of change = 0.0000 km/sec
+Azimuth rate of change = 0.0000 rad/sec
+Elevation rate of change = 0.0000 rad/sec
+
+
+R = 6378.137 I + 0 J + 0 K 
+V = 0 I + 0.46383 J + 0 K 
+
+COE's for the spacecraft are:
+************************************************************** 
+
+Specific Mechanical Energy (epsilon): -62.3872
+Semi-Major Axis: 3194.5672
+Eccentricity: 0.9966
+Inclination: 0.0000
+Inclination is Equatorial 
+Right Ascension of Ascending Node: NaN 
+Argument of Perigee: NaN 
+True Anomaly: 180.0000
+Longitude of Perigee: 180.0000
+Ballistic Missile with a Radius of Perigee: 10.9973 
+**************************************************************
+Orbit is Elliptical 
+**************************************************************
+After a Time of Flight of 0.0000 hours 
+Final True Anomaly = 180.0000 
+
+Final Range Tracking Site Location at: 

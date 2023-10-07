@@ -1,0 +1,125 @@
+ COE's for the spacecraft are:
+************************************************************** 
+Specific Mechanical Energy (epsilon): -4.7265
+Semi-Major Axis: 42166.7860
+Eccentricity: 0.0004
+Inclination: 15.5653
+Right Ascension of Ascending Node: 41.6244
+Argument of Perigee: NaN 
+True Anomaly: NaN 
+Argument of Latitude: 268.5960
+Orbit is Circular
+After a Time of Flight of 0.2778 hours 
+Final True Anomaly = 272.7738 
+
+Updated R and V vectors: 
+
+R = 28475.0854 I + -28972.7713 J + -11301.4166 K 
+V = 2.1997 I + 2.1478 J + 0.040229 K 
+
+Satellite is located at: 
+Final Range = 45957.1032 km 
+Final Azimuth = 83.4421 degrees 
+Final Elevation = -39.7536 degrees 
+
+********************************************************** 
+Ground Stations Currently in Use: 
+************************************************************** 
+********************************************************** 
+Tracking site: Colorado 
+Latitude for tracking station: 38.8199 degrees 
+Longitude for tracking station: -104.7004 degrees east 
+Altitude above sea level: 1.8750 km 
+
+Satellite is located at: 
+Final Range = 45957.1032 km 
+Final Azimuth = 83.4421 degrees 
+Final Elevation = -39.7536 degrees 
+
+********************************************************** 
+********************************************************** 
+Tracking site: Diego Garcia 
+Latitude for tracking station: -7.3192 degrees 
+Longitude for tracking station: 72.4227 degrees east 
+Altitude above sea level: 0.0030 km 
+
+Satellite is located at: 
+Final Range = 38983.2041 km 
+Final Azimuth = 256.1528 degrees 
+Final Elevation = 25.9636 degrees 
+
+Satellite is within range
+********************************************************** 
+********************************************************** 
+Tracking site: Guam 
+Latitude for tracking station: 13.3086 degrees 
+Longitude for tracking station: -144.7344 degrees east 
+Altitude above sea level: 0.0820 km 
+
+Satellite is located at: 
+Final Range = 48232.2522 km 
+Final Azimuth = 99.0545 degrees 
+Final Elevation = -73.2575 degrees 
+
+********************************************************** 
+********************************************************** 
+Tracking site: Hawaii 
+Latitude for tracking station: 21.5577 degrees 
+Longitude for tracking station: -158.2487 degrees east 
+Altitude above sea level: 0.1320 km 
+
+Satellite is located at: 
+Final Range = 48482.9599 km 
+Final Azimuth = 45.4177 degrees 
+Final Elevation = -82.6695 degrees 
+
+********************************************************** 
+********************************************************** 
+Tracking site: New Hampshire 
+Latitude for tracking station: 42.9804 degrees 
+Longitude for tracking station: -71.6828 degrees east 
+Altitude above sea level: 0.3350 km 
+
+Satellite is located at: 
+Final Range = 43563.9347 km 
+Final Azimuth = 103.3058 degrees 
+Final Elevation = -16.8467 degrees 
+
+********************************************************** 
+********************************************************** 
+Tracking site: Telemetry & Command Station 
+Latitude for tracking station: 51.1319 degrees 
+Longitude for tracking station: -0.8963 degrees east 
+Altitude above sea level: 0.1470 km 
+
+Satellite is located at: 
+Final Range = 40220.0217 km 
+Final Azimuth = 162.9348 degrees 
+Final Elevation = 13.3518 degrees 
+
+********************************************************** 
+********************************************************** 
+Tracking site: Thule 
+Latitude for tracking station: 76.5319 degrees 
+Longitude for tracking station: -68.7032 degrees east 
+Altitude above sea level: 0.0760 km 
+
+Satellite is located at: 
+Final Range = 44112.6604 km 
+Final Azimuth = 99.2683 degrees 
+Final Elevation = -21.8211 degrees 
+
+********************************************************** 
+********************************************************** 
+Tracking site: Vandenberg 
+Latitude for tracking station: 34.6348 degrees 
+Longitude for tracking station: -120.6122 degrees east 
+Altitude above sea level: 0.1530 km 
+
+Satellite is located at: 
+Final Range = 46987.2212 km 
+Final Azimuth = 75.3327 degrees 
+Final Elevation = -51.7374 degrees 
+
+********************************************************** 
+************************************************************** 
